@@ -9,10 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "@fortawesome/fontawesome-svg-core": "^6.6.0",
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@mui/icons-material": "^5.16.6",
+    "@mui/material": "^5.16.6",
+    "dotenv": "^16.4.5",
     "eslint": "8.57.0",
     "eslint-config-next": "14.2.5",
+    "mongodb": "^6.8.0",
     "next": "14.2.5",
     "react": "18.3.1",
-    "react-dom": "18.3.1"
+    "react-dom": "18.3.1",
+    "react-quill": "^2.0.0",
+    "styled-components": "^6.1.12"
   }
 }
